@@ -3,13 +3,14 @@ package com.pageobjectmodel;
 import java.io.IOException;
 
 
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.base.Base_Class;
 import com.interfaceelements.LoginPageInterfaceElement;
-import com.pageobjecmanager.PageObjectManager;
+import com.pageobjectmanager.PageObjectManager;
 
 public class LoginPage extends Base_Class implements LoginPageInterfaceElement {
 	@FindBy(linkText= login_linkText)

@@ -50,13 +50,11 @@
     <artifactId>poi-ooxml</artifactId>
     <version>5.4.0</version>
 </dependency>
-    
-    <dependency>
+  <dependency>
     	<groupId>com</groupId>
     	<artifactId>MavenProject</artifactId>
     	<version>0.0.1-SNAPSHOT</version>
     </dependency>
- 
   </dependencies>
 
   <build>

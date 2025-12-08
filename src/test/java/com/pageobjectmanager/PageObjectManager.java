@@ -1,6 +1,6 @@
 package com.pageobjectmanager;
 
-import com.pageobjecmanager.PageObjectManager;
+
 import com.pageobjectmodel.CheckoutPage;
 import com.pageobjectmodel.LoginPage;
 import com.pageobjectmodel.SearchPage;

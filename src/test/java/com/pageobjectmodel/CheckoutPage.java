@@ -1,5 +1,4 @@
 package com.pageobjectmodel;
-
 import java.io.IOException;
 
 
@@ -9,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.base.Base_Class;
 import com.interfaceelements.checkoutPageInterfaceElement;
-import com.pageobjecmanager.PageObjectManager;
+import com.pageobjectmanager.PageObjectManager;
 
 public class CheckoutPage extends Base_Class implements checkoutPageInterfaceElement {
     @FindBy(id=cart_id)
@@ -61,5 +60,6 @@ public class CheckoutPage extends Base_Class implements checkoutPageInterfaceEle
         System.out.println("Product successfully purchased");
     }
 }
+
 
 
