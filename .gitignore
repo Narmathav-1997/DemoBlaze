@@ -1,6 +1,10 @@
 /target/
 .classpath
 .project
+<<<<<<< HEAD
 .settings/
 .settings
 .mvn
+=======
+.settings/
+>>>>>>> fe6d3d4240b76e9b8b8526361a2d1867d762fc42
